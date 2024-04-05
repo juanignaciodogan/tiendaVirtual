@@ -1,0 +1,20 @@
+
+Data / NODEJS modules
+
+
+npm init
+npm install mongoose   //gestor MONGODB
+npm install express // gestor de peticiones http
+npm install cors
+npm install dotenv 
+npm install bcrypt-nodejs
+
+
+
+npm install nodemon -g 
+agregar en package.json_
+"scripts": {
+    "dev": "nodemon ./app.js"   
+  },
+
+ejecutar el servidor npm run dev
